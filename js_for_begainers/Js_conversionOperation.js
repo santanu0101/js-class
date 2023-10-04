@@ -10,18 +10,26 @@ console.log(typeof score2)
 console.log(typeof score3)
 
 
-let ValueInNumber = Number(score)
-console.log(typeof ValueInNumber)
-console.log(ValueInNumber)
+// let ValueInNumber = Number(score)
+// console.log(typeof ValueInNumber)
+// console.log(ValueInNumber)
 
-let ValueInNumber1 = Number(score1)
-console.log(typeof ValueInNumber1)
-console.log(ValueInNumber1)
+// let ValueInNumber1 = Number(score1)
+// console.log(typeof ValueInNumber1)
+// console.log(ValueInNumber1)
 
-let ValueInNumber2 = Number(score2)
-console.log(typeof ValueInNumber2)
-console.log(ValueInNumber2)
+// let ValueInNumber2 = Number(score2)
+// console.log(typeof ValueInNumber2)
+// console.log(ValueInNumber2)
 
-let ValueInNumber3 = Number(score3)
-console.log(typeof ValueInNumber3)
-console.log(ValueInNumber3)
+// let ValueInNumber3 = Number(score3)
+// console.log(typeof ValueInNumber3)
+// console.log(ValueInNumber3)
+
+// let isLoggedIn = 1
+// let isLoggedIn = 0
+// let isLoggedIn = ""
+let isLoggedIn = "santanu"
+
+let booleanIsLoggedIn = Boolean (isLoggedIn)
+console.log(booleanIsLoggedIn)
