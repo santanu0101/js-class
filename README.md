@@ -1,2 +1,2 @@
 # js-class
-This JS class for beginners 😊😊😊
+This is JS class for beginners 😊😊😊
